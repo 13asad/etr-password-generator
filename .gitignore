@@ -1,17 +1,20 @@
 # Ignore files and folders in ETR GTK
-ETR GTK/b/c/
-ETR GTK/c/d/
-ETR GTK/.idea/
-ETR GTK/.vscode/
-ETR GTK/cmake-build-debug/
+ETR GTK/.idea/*
+ETR GTK/.vscode/*
+ETR GTK/cmake-build-debug/*
+ETR GTK/CMakeLists.txt
 
 # Ignore files and folders in ETR RAYLIB
-ETR RAYLIB/buikd/
-ETR RAYLIB/cmake-build-debug/
-ETR RAYLIB/.idea/
-ETR RAYLIB/.vscode/
-ETR RAYLIB/resources/
+ETR RAYLIB/build/*
+ETR RAYLIB/cmake-build-debug/*
+ETR RAYLIB/.idea/*
+ETR RAYLIB/.vscode/*
+ETR RAYLIB/resources/*
+ETR RAYLIB/main.code-workspace
+ETR RAYLIB/Makefile
+ETR RAYLIB/Makefile.Android
+
 
 # Ignore general files and folders
-.idea/
-cmake-build-debug/
+.idea/*
+cmake-build-debug/*
