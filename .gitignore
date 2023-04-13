@@ -1,0 +1,17 @@
+COURSEWORK 1-ETR GTK/.idea/
+COURSEWORK 1-ETR GTK/.vscode/
+COURSEWORK 1-ETR GTK/cmake-build-debug/
+COURSEWORK 1-ETR GTK/CMakeLists.txt
+
+*/COURSEWORK 1-ETR RAYLIB/.idea/
+*/COURSEWORK 1-ETR RAYLIB/.vscode/
+*/COURSEWORK 1-ETR RAYLIB/cmake-build-debug/
+COURSEWORK 1-ETR RAYLIB/buikd/
+COURSEWORK 1-ETR RAYLIB/resources/
+COURSEWORK 1-ETR RAYLIB/CMakeLists.txt
+COURSEWORK 1-ETR RAYLIB/Makefile
+COURSEWORK 1-ETR RAYLIB/main.code-workspace
+COURSEWORK 1-ETR RAYLIB/Makefile.Android
+
+*/.idea/
+*/cmake-build-debug/
