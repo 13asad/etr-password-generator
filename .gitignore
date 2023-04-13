@@ -1,17 +1,17 @@
-COURSEWORK 1-ETR GTK/.idea/
-COURSEWORK 1-ETR GTK/.vscode/
-COURSEWORK 1-ETR GTK/cmake-build-debug/
-COURSEWORK 1-ETR GTK/CMakeLists.txt
+# Ignore files and folders in ETR GTK
+ETR GTK/b/c/
+ETR GTK/c/d/
+ETR GTK/.idea/
+ETR GTK/.vscode/
+ETR GTK/cmake-build-debug/
 
-*/COURSEWORK 1-ETR RAYLIB/.idea/
-*/COURSEWORK 1-ETR RAYLIB/.vscode/
-*/COURSEWORK 1-ETR RAYLIB/cmake-build-debug/
-COURSEWORK 1-ETR RAYLIB/buikd/
-COURSEWORK 1-ETR RAYLIB/resources/
-COURSEWORK 1-ETR RAYLIB/CMakeLists.txt
-COURSEWORK 1-ETR RAYLIB/Makefile
-COURSEWORK 1-ETR RAYLIB/main.code-workspace
-COURSEWORK 1-ETR RAYLIB/Makefile.Android
+# Ignore files and folders in ETR RAYLIB
+ETR RAYLIB/buikd/
+ETR RAYLIB/cmake-build-debug/
+ETR RAYLIB/.idea/
+ETR RAYLIB/.vscode/
+ETR RAYLIB/resources/
 
-*/.idea/
-*/cmake-build-debug/
+# Ignore general files and folders
+.idea/
+cmake-build-debug/
