@@ -127,7 +127,7 @@ float loadingProgress = 0.0f;
 void stageTwoDraw(char * pass, int wordPassCounter)
 {
     // Loading animation variables
-    const char spinner[] = "|/-\\";
+    const char spinner[] = "......";
     static int spinnerIndex = 0;
     const float spinnerDelay = 0.1f; // Adjust this value to control the spinner speed
     static float timeCounter = 0.0f;

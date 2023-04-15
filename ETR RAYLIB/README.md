@@ -21,7 +21,7 @@ This is a simple, easy-to-remember password generator built using C and the Rayl
 
 Download it from [raylib.com](raylib.com).
 
-Raylib Documentation: [Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
+Raylib Syntax Cheatsheet: [Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html).
 </h5>
 
 ## Compilation

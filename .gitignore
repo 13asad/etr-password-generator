@@ -18,3 +18,4 @@ ETR RAYLIB/Makefile.Android
 # Ignore general files and folders
 .idea/*
 cmake-build-debug/*
+.vscode/*
