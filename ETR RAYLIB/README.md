@@ -20,7 +20,8 @@ This is a simple, easy-to-remember password generator built using C and the Rayl
 `Raylib:` This project uses the Raylib graphics library for the user interface.
 
 Download it from [raylib.com](raylib.com).
-Raylib Documentation:[Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
+
+Raylib Documentation: [Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
 </h5>
 
 ## Compilation
