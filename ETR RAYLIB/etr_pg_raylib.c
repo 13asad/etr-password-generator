@@ -123,7 +123,6 @@ int stageOneDraw(char *wordPass, bool finalCheck)
 
 float loadingProgress = 0.0f;
 // Function to draw the Stage 2 screen, where the generated password is displayed and the user can generate another password
-// Function to draw the Stage 2 screen, where the generated password is displayed and the user can generate another password
 void stageTwoDraw(char * pass, int wordPassCounter)
 {
     // Loading animation variables
