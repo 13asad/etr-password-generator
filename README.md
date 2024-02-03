@@ -4,6 +4,8 @@
 
 This is a simple, easy-to-remember password generator built using C and the Raylib graphics library. The software enables users to create passwords by combining words and hyphenating them. Users can choose between 3 and 4 words for their password, and the program will then generate a password in accordance with their selection.
 
+This project was undertaken in 2023 as part of Coursework 1 for the Middlesex University Mauritius CST1500 course.
+
 ## Features
 <h5>
 
@@ -225,5 +227,7 @@ These color constants are used as arguments in various drawing functions, such a
 </h5>
 
 ---
-## Conclusion
-In summary, this password generator application shows how to design a simple and user-friendly graphical user interface using a variety of Raylib functions and syntaxes, C standard library functions, and custom functions. The password generator's fundamental functionality is provided by the custom functions, while the Raylib functions manage user input and oversee how the application's various stages are shown. String manipulation, memory allocation, and random number creation are all performed using C standard library functions.
+## Authors
+
+- Mohammad Asad Atterkhan 
+- Hemant Mooneea
