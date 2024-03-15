@@ -13,7 +13,7 @@ This project was undertaken in 2023 as part of Coursework 1 for the Middlesex Un
 
 * Allows the user to input the number of words (3 or 4) for the password.
 
-* Uses the Raylib graphics library for a clean user interface.
+* Uses the Raylib graphics library for a clean user interface with an interactive GUI.
 </h5>
 
 ## Dependencies
